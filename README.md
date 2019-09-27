@@ -1,2 +1,3 @@
-# PracticasInterfacesInt
-Indice con enlaces a las practicas
+# Practicas Interfaces Inteligentes
+
+## Enlaces
