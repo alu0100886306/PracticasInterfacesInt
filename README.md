@@ -1,5 +1,5 @@
 # Practicas Interfaces Inteligentes
-## Grupo1:
+## Grupo 1:
 > David Afonso Dorta          
 > Miguel Bravo Arvelo          
 > Christian Ramos Barrera
